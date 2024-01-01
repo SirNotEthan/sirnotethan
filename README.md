@@ -5,4 +5,4 @@
 <br />
 <br />
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sirnotethan&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=sirnotethan&show_icons=true&theme=transparent)
