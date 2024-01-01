@@ -5,4 +5,4 @@
 <br />
 <br />
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sirnotethan&show_icons=true&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api/?username=sirnotethan&title_color=4F8CC9&theme=merko&show_icons=true&count_private=true&include_all_commits=true&enable_animations=true)
