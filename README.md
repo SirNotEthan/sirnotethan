@@ -9,20 +9,9 @@
 
 ## Contact
 
-<!-- [![website](./img/globe-light.svg)](#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](#gh-dark-mode-only)
-&nbsp;&nbsp; -->
-<!-- [![website](./img/youtube-light.svg)](#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](#gh-dark-mode-only)
-&nbsp;&nbsp; -->
 [![website](./img/twitter-light.svg)](https://twitter.com/sirnotethan#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/sirnotethan#gh-dark-mode-only)
 &nbsp;&nbsp;
-<!-- [![website](./img/linkedin-light.svg)](#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](#gh-dark-mode-only)
-&nbsp;&nbsp; -->
-<!-- [![website](./img/instagram-light.svg)](#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](#gh-dark-mode-only) -->
 
 <br />
 <a href="https://discord.com/users/959555371385622590">
