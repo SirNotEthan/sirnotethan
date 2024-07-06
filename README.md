@@ -38,4 +38,4 @@
 ### Stats
 
 
-  <img align="left" alt="SirNotEthan's Stats" src="https://github-readme-stats.vercel.app/api/?username=sirnotethan&title_color=4F8CC9&theme=merko&show_icons=true&count_private=true&include_all_commits=true&enable_animations=true" />
+  <img align="left" alt="SirNotEthan's Stats" src="https://github-readme-stats.vercel.app/api/?username=torvalds&title_color=4F8CC9&theme=merko&show_icons=true&count_private=true&include_all_commits=true&enable_animations=true" />
