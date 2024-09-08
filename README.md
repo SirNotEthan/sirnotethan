@@ -5,6 +5,7 @@
 ## I'm a Small Developer
 
 - Working on a Discord Project [BitLab](https://discord.gg/7rvXDXRwtg)!
+- Multi-function Bot Project for [The Empyreal Realm](https://discord.gg/AtDaa47rQn)
 - Collaborating on a new server for developers of all platforms to socialise - [Creative Network](https://discord.gg/jWM3wzhMc7)
 
 ## Contact
