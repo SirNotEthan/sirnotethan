@@ -37,6 +37,6 @@
 
 ### Stats
 
-![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirnotethan\&title_color=4F8CC9\&theme=merko\&count_private=true\&include_all_commits=true\&enable_animations=true\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirnotethan)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirnotethan&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
