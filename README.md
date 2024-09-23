@@ -25,8 +25,11 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://www.javascript.com/)
+[<img align="left" alt="HTML" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://html5.org/)
+[<img align="left" alt="CSS" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://css3.com/)
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://react.dev/)
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/en)
+[<img align="left" alt="Discord.js" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/discordjs/discordjs-original.svg" style="padding-right:10px;" />](https://discord.js.org/)
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com/)
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://www.mysql.com/)
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
