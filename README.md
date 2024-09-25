@@ -46,6 +46,5 @@
 
 
 <img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=sirnotethan&theme=nord&title=MultiLanguage,Commits,Followers,Stars&no-frame=true&margin-w=18"/>
-<img alt="Sir Ethan's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sirnotethan&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs"/>
 
 <img alt="Sir Ethan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirnotethan&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E" height="198px"/>
