@@ -14,9 +14,7 @@
 &nbsp;&nbsp;
 
 <br />
-<a href="https://discord.com/users/959555371385622590">
-    <img src="https://discord.c99.nl/widget/theme-3/959555371385622590.png" />
-</a>
+<a href="https://discord.com/users/959555371385622590"><img src="https://lanyard.cnrad.dev/api/959555371385622590?showDisplayName=true" /></a>
 <br />
 <br />
 
