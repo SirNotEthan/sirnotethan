@@ -35,7 +35,10 @@
 <br />
 <br />
 
-<h3>🔥 Statistics :</h3>
+<h3>🔥 Learning: </h3>
+<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+
+<h3>🔥 Statistics:</h3>
 
 <a href="https://wakatime.com/@810d81e8-8485-4201-af21-e21aeac38069"><img src="https://wakatime.com/badge/user/810d81e8-8485-4201-af21-e21aeac38069.svg" alt="Total time coded since Sep 23 2024" /></a>
 
