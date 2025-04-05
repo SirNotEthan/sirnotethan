@@ -36,7 +36,11 @@
 <br />
 
 <h3>🔥 Learning: </h3>
+
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+
+<br />
+<br />
 
 <h3>🔥 Statistics:</h3>
 
